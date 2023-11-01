@@ -5,9 +5,9 @@ from pyrogram.errors.exceptions.not_acceptable_406 import PhoneNumberInvalid
 from pyromod import listen
 
 
-API_ID = 14170449
-API_HASH = "6937042551:AAHxXNxCNFC3TC87xJPrdXiuZRpA5wMEIaI"
-TOKEN = "6246284893:"
+API_ID = 15145595
+API_HASH = "c3f60ecf742e136436acc9082ac8d9a4"
+TOKEN = "6937042551:AAHxXNxCNFC3TC87xJPrdXiuZRpA5wMEIaI:"
 
 app = Client("Session",api_id=API_ID,api_hash=API_HASH,bot_token=TOKEN, in_memory=True)
 
